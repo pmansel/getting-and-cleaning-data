@@ -3,6 +3,7 @@
 SubjectId: Subject identifier (1 to 30)
 
 ActivityType: Activity Type, one of the following:
+
                 * WALKING
 
                 * WALKING_UPSTAIRS
