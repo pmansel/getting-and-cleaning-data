@@ -4,10 +4,15 @@ SubjectId: Subject identifier (1 to 30)
 
 ActivityType: Activity Type, one of the following:
                 * WALKING
+
                 * WALKING_UPSTAIRS
+
                 * WALKING_DOWNSTAIRS
+
                 * SITTING
+
                 * STANDING
+
                 * LAYING
 
 The following variables represent the average across all subjects and activities of the corresponding
